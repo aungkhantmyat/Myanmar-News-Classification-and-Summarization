@@ -4,15 +4,15 @@
 In the era of digital information, efficient processing of textual data has become essential. This project uses ML techniques to classify Myanmar news articles into four categories—Politics, Entertainment, Crime, and Business. The dataset comprises 720 articles, preprocessed using tokenization and stopword removal. Classification experiments employ an RBF Support Vector Machine (SVM) with vectorization techniques, achieving an 83% accuracy using TF-IDF vectorization. For summarization, both extractive and abstractive approaches are explored. Extractive summarization utilizes cosine similarity and the TextRank algorithm, while abstractive summarization leverages the transformer-based mT-5 model. Evaluation metrics such as accuracy for classification and ROUGE scores for summarization validate the system's effectiveness.
 
 ## Dataset
-- For Myanmar News Classification, **720 news articles** from four categories (**Politics, Entertainment, Crime, and Business**) were collected, segmented into sentences to solve class imbalance, and split into 6,769 training and 1,695 testing sentences using an 80-20 ratio.
+- For Myanmar News Classification, **720 news articles** from four categories **(Politics, Entertainment, Crime, and Business)** were collected, segmented into sentences to solve class imbalance, and split into 6,769 training and 1,695 testing sentences using an 80-20 ratio.
 - For Summarization, the **XL-Sum dataset**, featuring professionally annotated article-summary pairs in 45 languages, was used, with 5,761 training articles and 719 each for development and testing in the Myanmar language.
 
 ## Proposed System Architecture
 1. Myanmar News Classification
-  
+   ![TYM Paper Related(3)](https://github.com/user-attachments/assets/486fba11-4482-48b9-af5b-15c437119be2)
 2. Extractive Summarization
    
-3. Abstractive Summarization
+4. Abstractive Summarization
 
 ## Evaluation of Experimental Results
 1. Comparison of the Accuracies with Various Vectorization Methods
