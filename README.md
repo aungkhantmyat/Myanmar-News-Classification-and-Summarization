@@ -8,14 +8,14 @@ In the era of digital information, efficient processing of textual data has beco
 - For Summarization, the **XL-Sum dataset**, featuring professionally annotated article-summary pairs in 45 languages, was used, with 5,761 training articles and 719 each for development and testing in the Myanmar language.
 
 ## Proposed System Architecture
-**1. Myanmar News Classification**
-![Classification](https://github.com/user-attachments/assets/37e87fc9-d8f5-4711-88f4-14f16acb6e38)
+**(1) Myanmar News Classification**
+![Classification](https://github.com/user-attachments/assets/da9c545e-2ec9-4403-9bc8-6e1b5889b07b)
 
-**2. Extractive Summarization**
-![Extractive Summarization](https://github.com/user-attachments/assets/5e867461-4c8c-462d-869d-144dc5a83a58)
+**(2) Extractive Summarization**
+![Extractive](https://github.com/user-attachments/assets/abc04e66-e2dd-4015-b23c-7f037cfc330b)
 
-**3. Abstractive Summarization**
-![Abstractive Summarization](https://github.com/user-attachments/assets/e7648ed2-a4f4-4dbd-ab85-d4f763c3599e)
+**(3) Abstractive Summarization**
+![Abstractive](https://github.com/user-attachments/assets/08b926ab-5997-4180-a23c-c910e9d5d397)
 
 ## Evaluation of Experimental Results
 1. Comparison of the Accuracies with Various Vectorization Methods
@@ -26,9 +26,9 @@ In the era of digital information, efficient processing of textual data has beco
 
 
 ## Papers
-Two research papers on this project have been submitted to IEEE conferences:
-1. "Exploring Extractive and Abstractive Approaches for Myanmar Language Text Summarization," was published at The 5th  International Conference on Advanced Information Technologies (ICAIT 2024). You can find [here](https://public.thinkonweb.com/sites/iccr2023/proceeding)
-2. "Systematic Comparison of Vectorization Methods in Topic Classification for Myanmar Language," was published at the 22nd  IEEE International Conference on Computer Applications (IEEE-ICCA 2025).
+Two research papers on this project have been submitted to **IEEE conferences**:
+1. **"Exploring Extractive and Abstractive Approaches for Myanmar Language Text Summarization"**, was published at The _5th  International Conference on Advanced Information Technologies_ (ICAIT 2024). You can find [here](https://public.thinkonweb.com/sites/iccr2023/proceeding)
+2. **"Systematic Comparison of Vectorization Methods in Topic Classification for Myanmar Language"**, was published at the_ 22nd  IEEE International Conference on Computer Applications_ (IEEE-ICCA 2025).
 
 Also, more about the project information can be found [here](https://github.com/Raghu2411/Vaccine-Tweets-Sentiment-Analysis/blob/main/Project%20Report.pdf).
 
