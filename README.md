@@ -1,4 +1,4 @@
-![Extractive Summarization](https://github.com/user-attachments/assets/02cc1134-486d-41a8-8131-dfab389dac10)# Myanmar-News-Classification-and-Summarization
+# Myanmar-News-Classification-and-Summarization
 
 ## Brief
 In the era of digital information, efficient processing of textual data has become essential. This project uses ML techniques to classify Myanmar news articles into four categories—Politics, Entertainment, Crime, and Business. The dataset comprises 720 articles, preprocessed using tokenization and stopword removal. Classification experiments employ an RBF Support Vector Machine (SVM) with vectorization techniques, achieving an 83% accuracy using TF-IDF vectorization. For summarization, both extractive and abstractive approaches are explored. Extractive summarization utilizes cosine similarity and the TextRank algorithm, while abstractive summarization leverages the transformer-based mT-5 model. Evaluation metrics such as accuracy for classification and ROUGE scores for summarization validate the system's effectiveness.
@@ -8,14 +8,14 @@ In the era of digital information, efficient processing of textual data has beco
 - For Summarization, the **XL-Sum dataset**, featuring professionally annotated article-summary pairs in 45 languages, was used, with 5,761 training articles and 719 each for development and testing in the Myanmar language.
 
 ## Proposed System Architecture
-1. Myanmar News Classification
-   ![Classification](https://github.com/user-attachments/assets/614a49ec-7fcd-4876-be52-37838112cdf3)
+**1. Myanmar News Classification**
+![Classification](https://github.com/user-attachments/assets/37e87fc9-d8f5-4711-88f4-14f16acb6e38)
 
-2. Extractive Summarization
-![Extractive Summarization](https://github.com/user-attachments/assets/a1d2f5b5-8789-4e64-9071-7c1a93327bd5)
+**2. Extractive Summarization**
+![Extractive Summarization](https://github.com/user-attachments/assets/5e867461-4c8c-462d-869d-144dc5a83a58)
 
-3. Abstractive Summarization
-![Abstractive Summarization](https://github.com/user-attachments/assets/33993832-a661-4525-b75f-c3a2872241ca)
+**3. Abstractive Summarization**
+![Abstractive Summarization](https://github.com/user-attachments/assets/e7648ed2-a4f4-4dbd-ab85-d4f763c3599e)
 
 ## Evaluation of Experimental Results
 1. Comparison of the Accuracies with Various Vectorization Methods
