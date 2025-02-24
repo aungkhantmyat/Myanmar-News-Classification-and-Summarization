@@ -18,26 +18,30 @@ In the era of digital information, efficient processing of textual data has beco
 ![Abstractive](https://github.com/user-attachments/assets/08b926ab-5997-4180-a23c-c910e9d5d397)
 
 ## Evaluation of Experimental Results
-1. Comparison of the Accuracies with Various Vectorization Methods
+### Comparison of the Accuracies with Various Vectorization Methods
+
 | Model         | TFID | CountVec | W2Vec |
 |---------------|------|----------|-------|
 | SVM           | 0.83 | 0.78     | 0.60  |
 | Naïve Bayes   | 0.84 | 0.84     | 0.37  |
 | Random Forest | 0.78 | 0.78     | 0.66  |
 
-2. Experimental Results for Extractive Summarization
+### Experimental Results for Extractive Summarization
+
 | Metric   | Precision | Recall | F1-Score |
 |----------|-----------|--------|----------|
 | ROUGE-1  | 39.73     | 51.24  | 43.14    |
 | ROUGE-2  | 15.91     | 23.85  | 18.10    |
 | ROUGE-L  | 27.77     | 35.72  | 30.04    |
 
-3. Accuracies of multilingual model and monolingual model with XL-Sum Dataset
+### Accuracies of Multilingual Model and Monolingual Model with XL-Sum Dataset
+
 | Metric   | Multilingual Model | Monolingual Model |
 |----------|---------------------|-------------------|
 | ROUGE-1  | 15.96              | 36.67            |
 | ROUGE-2  | 5.15               | 16.78            |
 | ROUGE-L  | 14.18              | 29.98            |
+
 
 ## Papers
 Two research papers on this project have been submitted to **IEEE conferences**:
