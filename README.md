@@ -19,16 +19,30 @@ In the era of digital information, efficient processing of textual data has beco
 
 ## Evaluation of Experimental Results
 1. Comparison of the Accuracies with Various Vectorization Methods
+| Model         | TFID | CountVec | W2Vec |
+|---------------|------|----------|-------|
+| SVM           | 0.83 | 0.78     | 0.60  |
+| Naïve Bayes   | 0.84 | 0.84     | 0.37  |
+| Random Forest | 0.78 | 0.78     | 0.66  |
 
 2. Experimental Results for Extractive Summarization
+| Metric   | Precision | Recall | F1-Score |
+|----------|-----------|--------|----------|
+| ROUGE-1  | 39.73     | 51.24  | 43.14    |
+| ROUGE-2  | 15.91     | 23.85  | 18.10    |
+| ROUGE-L  | 27.77     | 35.72  | 30.04    |
 
 3. Accuracies of multilingual model and monolingual model with XL-Sum Dataset
-
+| Metric   | Multilingual Model | Monolingual Model |
+|----------|---------------------|-------------------|
+| ROUGE-1  | 15.96              | 36.67            |
+| ROUGE-2  | 5.15               | 16.78            |
+| ROUGE-L  | 14.18              | 29.98            |
 
 ## Papers
 Two research papers on this project have been submitted to **IEEE conferences**:
-1. **"Exploring Extractive and Abstractive Approaches for Myanmar Language Text Summarization"**, was published at The _5th  International Conference on Advanced Information Technologies_ (ICAIT 2024). You can find [here](https://public.thinkonweb.com/sites/iccr2023/proceeding)
+1. **"Exploring Extractive and Abstractive Approaches for Myanmar Language Text Summarization"**, was published at The _5th  International Conference on Advanced Information Technologies_ (ICAIT 2024). You can find [here](https://ieeexplore.ieee.org/document/10754935)
 2. **"Systematic Comparison of Vectorization Methods in Topic Classification for Myanmar Language"**, was published at the_ 22nd  IEEE International Conference on Computer Applications_ (IEEE-ICCA 2025).
 
-Also, more about the project information can be found [here](https://github.com/Raghu2411/Vaccine-Tweets-Sentiment-Analysis/blob/main/Project%20Report.pdf).
+Also, more about the project information can be found [here](https://github.com/aungkhantmyat/Myanmar-News-Classification-and-Summarization/blob/main/Capstone%20Project%20Book.pdf).
 
