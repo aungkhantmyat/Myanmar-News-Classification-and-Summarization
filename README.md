@@ -9,13 +9,13 @@ In the era of digital information, efficient processing of textual data has beco
 
 ## Proposed System Architecture
 #### Myanmar News Classification
-![Classification](https://github.com/user-attachments/assets/da9c545e-2ec9-4403-9bc8-6e1b5889b07b)
+![Classification](https://github.com/user-attachments/assets/72be9d60-2629-4a3f-9c44-905c60319da9)
 
 #### Extractive Summarization
-![Extractive](https://github.com/user-attachments/assets/abc04e66-e2dd-4015-b23c-7f037cfc330b)
+![Extractive](https://github.com/user-attachments/assets/57a775f1-7823-4749-809d-da9a69796b25)
 
 #### Abstractive Summarization
-![Abstractive](https://github.com/user-attachments/assets/08b926ab-5997-4180-a23c-c910e9d5d397)
+![Abstractive](https://github.com/user-attachments/assets/9ef4d242-3869-40a2-b89c-f0487374a938)
 
 ## Evaluation of Experimental Results
 #### Comparison of the Accuracies with Various Vectorization Methods
@@ -45,7 +45,7 @@ In the era of digital information, efficient processing of textual data has beco
 
 ## Papers
 Two research papers on this project have been submitted to **IEEE conferences**:
-1. **"Exploring Extractive and Abstractive Approaches for Myanmar Language Text Summarization"**, was published at The _5th  International Conference on Advanced Information Technologies_ (ICAIT 2024). You can find [here](https://ieeexplore.ieee.org/document/10754935)
+1. **"Exploring Extractive and Abstractive Approaches for Myanmar Language Text Summarization"**, was published at The _5th  International Conference on Advanced Information Technologies_ (ICAIT 2024). You can find [here](https://ieeexplore.ieee.org/document/10754935).
 2. **"Systematic Comparison of Vectorization Methods in Topic Classification for Myanmar Language"**, was published at the_ 22nd  IEEE International Conference on Computer Applications_ (IEEE-ICCA 2025).
 
 Also, more about the project information can be found [here](https://github.com/aungkhantmyat/Myanmar-News-Classification-and-Summarization/blob/main/Capstone%20Project%20Book.pdf).
