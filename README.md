@@ -9,13 +9,13 @@ In the era of digital information, efficient processing of textual data has beco
 
 ## Proposed System Architecture
 1. Myanmar News Classification
-   ![Classification](https://github.com/user-attachments/assets/9ee3b336-8bdc-41fa-bebe-84d21a67bff2)
+   ![Classification](https://github.com/user-attachments/assets/614a49ec-7fcd-4876-be52-37838112cdf3)
+
 2. Extractive Summarization
-![Extractive Summarization](https://github.com/user-attachments/assets/c8df8b05-e8eb-4fa1-a19e-4456c63e94cd)
+![Extractive Summarization](https://github.com/user-attachments/assets/a1d2f5b5-8789-4e64-9071-7c1a93327bd5)
+
 3. Abstractive Summarization
-![Abstractive Summarization](https://github.com/user-attachments/assets/dda4a577-bbcb-42a6-b490-40390b30d47d)
-
-
+![Abstractive Summarization](https://github.com/user-attachments/assets/33993832-a661-4525-b75f-c3a2872241ca)
 
 ## Evaluation of Experimental Results
 1. Comparison of the Accuracies with Various Vectorization Methods
