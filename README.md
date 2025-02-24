@@ -8,17 +8,17 @@ In the era of digital information, efficient processing of textual data has beco
 - For Summarization, the **XL-Sum dataset**, featuring professionally annotated article-summary pairs in 45 languages, was used, with 5,761 training articles and 719 each for development and testing in the Myanmar language.
 
 ## Proposed System Architecture
-**(1) Myanmar News Classification**
+#### Myanmar News Classification
 ![Classification](https://github.com/user-attachments/assets/da9c545e-2ec9-4403-9bc8-6e1b5889b07b)
 
-**(2) Extractive Summarization**
+#### Extractive Summarization
 ![Extractive](https://github.com/user-attachments/assets/abc04e66-e2dd-4015-b23c-7f037cfc330b)
 
-**(3) Abstractive Summarization**
+#### Abstractive Summarization
 ![Abstractive](https://github.com/user-attachments/assets/08b926ab-5997-4180-a23c-c910e9d5d397)
 
 ## Evaluation of Experimental Results
-### Comparison of the Accuracies with Various Vectorization Methods
+#### Comparison of the Accuracies with Various Vectorization Methods
 
 | Model         | TFID | CountVec | W2Vec |
 |---------------|------|----------|-------|
@@ -26,7 +26,7 @@ In the era of digital information, efficient processing of textual data has beco
 | Naïve Bayes   | 0.84 | 0.84     | 0.37  |
 | Random Forest | 0.78 | 0.78     | 0.66  |
 
-### Experimental Results for Extractive Summarization
+#### Experimental Results for Extractive Summarization
 
 | Metric   | Precision | Recall | F1-Score |
 |----------|-----------|--------|----------|
@@ -34,7 +34,7 @@ In the era of digital information, efficient processing of textual data has beco
 | ROUGE-2  | 15.91     | 23.85  | 18.10    |
 | ROUGE-L  | 27.77     | 35.72  | 30.04    |
 
-### Accuracies of Multilingual Model and Monolingual Model with XL-Sum Dataset
+#### Accuracies of Multilingual Model and Monolingual Model with XL-Sum Dataset
 
 | Metric   | Multilingual Model | Monolingual Model |
 |----------|---------------------|-------------------|
