@@ -46,7 +46,7 @@ In the era of digital information, efficient processing of textual data has beco
 ## Papers
 Two research papers on this project have been submitted to **IEEE conferences**:
 1. **"Exploring Extractive and Abstractive Approaches for Myanmar Language Text Summarization"**, was published at The _5th  International Conference on Advanced Information Technologies_ (ICAIT 2024). You can find [here](https://ieeexplore.ieee.org/document/10754935).
-2. **"Systematic Comparison of Vectorization Methods in Topic Classification for Myanmar Language"**, was published at the _22nd  IEEE International Conference on Computer Applications_ (IEEE-ICCA 2025).
+2. **"Systematic Comparison of Vectorization Methods in Topic Classification for Myanmar Language"**, was published at the _22nd  IEEE International Conference on Computer Applications_ (IEEE-ICCA 2025).  You can find [here](https://ieeexplore.ieee.org/document/11011194).
 
 Also, more about the project information can be found [here](https://github.com/aungkhantmyat/Myanmar-News-Classification-and-Summarization/blob/main/Capstone%20Project%20Book.pdf).
 
